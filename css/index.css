@@ -1,9 +1,8 @@
-.container
+@media screen and (min-width:300px) and (max-width:500px)
 {
-    margin-left: 0px !important;
-    margin-right: 0px !important;
-    width: 100% !important;
+    .carousel-item
+    {
+      margin-top: 10% !important;
+    }
 }
-
-
 
